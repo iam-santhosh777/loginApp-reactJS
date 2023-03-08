@@ -1,0 +1,8 @@
+/* Write your CSS here */
+.greeting {
+  color: #f8fafc;
+  font-size: 32px;
+  font-family: 'roboto';
+  font-weight: bold;
+  text-align: center;
+}
